@@ -1,5 +1,4 @@
 # Blinkit-Powerbi-dashboard
-# Blinkit Sales Dashboard
 
 Welcome to the Blinkit Power BI Dashboard repository! This project showcases a comprehensive visualization of sales, item distribution, and outlet performance for Blinkit – India's last-minute delivery app.
 
